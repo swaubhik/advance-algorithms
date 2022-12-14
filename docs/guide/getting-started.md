@@ -20,7 +20,6 @@ then:
 
 ```sh
 sudo apt-get install gcc
-
 ```
 
 ## 💻 Usage
