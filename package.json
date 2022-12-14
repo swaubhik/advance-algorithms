@@ -1,0 +1,18 @@
+{
+  "name": "advance-alogrithms",
+  "version": "1.0.0",
+  "description": "All programs for advance algorithm",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": "https://www.github.com/swaubhik/advance-algorithms",
+  "author": "swaubhik",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.31",
+    "vue": "^3.2.45"
+  }
+}
