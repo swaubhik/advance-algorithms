@@ -25,3 +25,9 @@ C program to implement the Insertion Sort algorithm
 C program to implement the Heap Sort algorithm
 
 <<< @/guide/programs/c/heapSort.c
+
+## 5. N-Queen Problem
+
+C program to solve N-queen Problem using backtracking
+
+<<< @/guide/programs/c/n-queen.c
