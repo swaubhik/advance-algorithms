@@ -31,3 +31,9 @@ C program to implement the Heap Sort algorithm
 C program to solve N-queen Problem using backtracking
 
 <<< @/guide/programs/c/n-queen.c
+
+## 6. Hamiltonian Cycle
+
+C program to solve Hamiltonian Cycle Problem using backtracking
+
+<<< @/guide/programs/c/hamiltonianCycle.c
